@@ -9,7 +9,7 @@ const Intro = () => {
     <div className="intro">
       <img className="main-logo" src={mainLogo} alt="main illustration"/>
       <div className="title-wrapper">
-        <span>엠닥홈케어와 함께하는</span>
+        <span>최초로</span>
         <h1>{title}</h1>
       </div>
       <div className="partner">
